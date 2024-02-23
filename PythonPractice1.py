@@ -132,3 +132,6 @@ txt = "varun is {} old guy"
 print(txt.format(age))
 txt2 = "varun {2} and {1} and {0}"
 print(txt2.format(a,b,c))
+
+
+print("Hey new commit file is added, please check it")
